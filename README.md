@@ -1,2 +1,2 @@
 # CarAnalytic
-Аналитика list of tuples и list of libraries с использование list comprehension.
+Analytics using a list of tuples and a list of libraries with list comprehensions.
